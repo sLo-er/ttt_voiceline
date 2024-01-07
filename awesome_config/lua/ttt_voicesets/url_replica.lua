@@ -1,0 +1,71 @@
+Awesome.VoiceSets["url_replica"] = {
+	["PainSoundsLight"] = {
+		"replica/damn_1",
+		"replica/pain_1",
+		"replica/pain_2",
+		"replica/pain_3",
+		"replica/pain_4",
+		"replica/pain_5",
+		"replica/pain_6"
+	},
+	["PainSoundsMed"] = {
+		"replica/damn_5",
+		"replica/damn_6",
+		"replica/damn_9",
+		"replica/leavemealone",
+		"replica/cover_1",
+		"replica/cover_2",
+		"replica/enemy_1",
+		"replica/enemy_2",
+		"replica/helpmy_1",
+		"replica/helpmy_2",
+		"replica/helpmy_3",
+		"replica/killhem_1",
+		"replica/shutup",
+		"replica/underfire_1",
+		"replica/underfire_2",
+		"replica/underfire_3"
+	},
+	["PainSoundsHeavy"] = {
+		"replica/damn_2",
+		"replica/damn_3",
+		"replica/damn_4",
+		"replica/damn_5",
+		"replica/damn_6",
+		"replica/damn_7",
+		"replica/damn_8",
+		"replica/damn_9",
+		"replica/leavemealone",
+		"replica/saveme",
+		"replica/where_1",
+		"replica/where_2",
+		"replica/where_3",
+		"replica/wounded_1",
+		"replica/wounded_2",
+		"replica/wounded_3"
+	},
+	["DeathSounds"] = {
+		"replica/alldead",
+		"replica/losses_1",
+		"replica/losses_2",
+		"replica/scream_1",
+		"replica/scream_2",
+		"replica/scream_3",
+		"replica/scream_4",
+		"replica/scream_5",
+		"replica/scream_6",
+		"replica/scream_7",
+		"replica/scream_8",
+		"replica/scream_9",
+		"replica/scream_10",
+		"replica/scream_11",
+		"replica/stuck_1"
+	},
+	["DefibSounds"] = {
+		"replica/alert_1",
+		"replica/alert_2",
+		"replica/alert_3",
+		"replica/figureout"
+		"replica/takealive"
+	}
+}
